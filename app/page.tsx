@@ -43,7 +43,7 @@ export default function Home() {
             <Card className="col-span-full">
               <CardHeader className="pb-2">
                 <CardTitle>Welcome back, Alex!</CardTitle>
-                <CardDescription>You've completed 70% of your weekly workout goal.</CardDescription>
+                <CardDescription>You have completed 70% of your weekly workout goal.</CardDescription>
               </CardHeader>
               <CardContent>
                 <div className="mt-2 space-y-2">
